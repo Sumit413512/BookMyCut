@@ -1,2 +1,4 @@
 # BookMyCut
-This is app created by me for easily bboking of salons services through easy click on mobile .
+This is a raw code file MVP of Booking salon appointments which solve real world problem.
+
+
